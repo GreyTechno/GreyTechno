@@ -7,4 +7,5 @@
 * RESIDENT OF : INDIA,KOLKATA
 * TRYING TO : Learn C Language
 * AIM : Become A Best Programmer
-<p align="centre"><a href="https://instagram.com/grey_techno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/IMG_20221118_212932.png" alt="grey_techno/" height=50% width=50%></a></p>
+## Find Me On
+<p align="centre"><a href="https://instagram.com/grey_techno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/20221118_213656.png" alt="grey_techno/" height=30% width=70%></a></p>
