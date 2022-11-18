@@ -1,7 +1,7 @@
+# 🚀 ABOUT ME
 <p align="centre"><a href="https://github.com/GreyTechno"><img title="GreyTechno" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a></p>
 <p align="centre"><a href="https://github.com/GreyTechno"><img title="GreyTechno" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyTechno&layout=compact&theme=react&hide_border=true"></a></p>
 
-# 🚀 ABOUT ME
 * I am MR.GT
 * I Am Student And Part Time Programmer But Programming Is My Favriute Sport
 * RESIDENT OF : INDIA,KOLKATA
