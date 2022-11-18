@@ -5,7 +5,8 @@
 
 # 🚀 ABOUT ME
 
-### Hi,I Am MR.GT
+<h2 align="centre">Hi,I'm MR.GT</h2>
+
 * Resident Of India 🇮🇳
 * A Student And Part Time Programmer
 * TRYING TO : Learn C Language
