@@ -10,6 +10,8 @@
 * A Student And Part Time Programmer
 * Trying To Learn Python And Java
 * AIM Become A Best Programmer
+<p align="right"><a href="#top"><img align="right" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="top" height="40" width="40"></a></p>
+
 # 
 ## 🏆 GithubStatistics
 <p align="centre"><a href="#"><img title="GithubStatistics" src="https://github-profile-trophy.vercel.app/?username=GreyTechno&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"></a></p>
@@ -17,9 +19,7 @@
 # 
 <h2><b><i>📡 ConnectWithMe</i></b></h2> 
 <p align="centre"><a href="https://instagram.com/grey_techno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221118_213656.png" alt="Instagram" height=30% width=70%></a></p>
-
-
 <p align="centre"><a href="https://github.com/GreyTechno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221118_232112.png" alt="Github" height=30% width=70%></a></p>
+<p align="right"><a href="#top"><img align="right" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="top" height="40" width="40"></a></p>
 
-
-<p align="right"><a href="#top"><img align="right" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="Back_Top" height="50" width="50"></a></p>
+# 
