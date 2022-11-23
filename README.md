@@ -17,6 +17,9 @@
 # 
 <h2><b><i>📡 ConnectWithMe</i></b></h2> 
 <p align="centre"><a href="https://instagram.com/grey_techno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221118_213656.png" alt="Instagram" height=30% width=70%></a></p>
-<p align="centre"><a href="https://github.com/GreyTechno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221118_232112.png" alt="Github" height=30% width=70%></a></p>
-<p align="centre"><a href="#readme-top"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="Github" height=30% width=70%></a></p>
 
+
+<p align="centre"><a href="https://github.com/GreyTechno/" target="blank"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221118_232112.png" alt="Github" height=30% width=70%></a></p>
+
+
+<p align="centre"><a href="#readme-top"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/892692.png" alt="Github" height=30% width=70%></a></p>
