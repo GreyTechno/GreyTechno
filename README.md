@@ -3,8 +3,8 @@
 <p align="centre"><a href="#readme-top"><img title="Programmer" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/46207-programmer-1.gif"></a></p>
 
 
+<p align="centre"><a href="#readme-top"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221123_234926.png" alt="Hi,_I_Am_MR.GT" height="90" width="1000"></a></p>
 
-# Hi,I'm MR.GT
 ## 🚀 ABOUT ME
 * Resident Of India 🇮🇳
 * A Student And Part Time Programmer
