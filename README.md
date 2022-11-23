@@ -1,4 +1,4 @@
-<p align="centre"><a href="*"><img title="GithubStats" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a></p>
+<p align="centre"><a href="#"><img title="GithubStats" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a></p>
 <p align="centre"><a href="#"><img title="MostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyTechno&layout=compact&theme=react&hide_border=true"></a></p>
 <p align="centre"><a href="#"><img title="Programmer" src="https://github.com/GreyTechno/GreyTechno/blob/main/giphy.gif"></a></p>
 
