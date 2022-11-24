@@ -1,9 +1,9 @@
-<p align="centre"><a href="#readme-top"><img title="GithubStats" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a></p>
-<p align="centre"><a href="#readme-top"><img title="MostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyTechno&layout=compact&theme=react&hide_border=true"></a></p>
-<p align="centre"><a href="#readme-top"><img title="Programmer" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/46207-programmer-1.gif"></a></p>
+<p align="centre"><img title="GithubStats" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></p>
+<p align="centre"><img title="MostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyTechno&layout=compact&theme=react&hide_border=true"></p>
+<p align="centre"><img title="Programmer" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/46207-programmer-1.gif"></p>
 
 
-<p align="centre"><a href="#readme-top"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221123_234926.png" alt="Hi,_I_Am_MR.GT" height="90" width="1000"></a></p>
+<p align="centre"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221123_234926.png" alt="Hi,_I_Am_MR.GT" height="90" width="1000"></p>
 
 ## 🚀 ABOUT ME
 * Resident Of India 🇮🇳
@@ -14,7 +14,7 @@
 
 # 
 ## 🏆 GithubStatistics
-<p align="centre"><a href="#readme-top"><img title="GithubStatistics" src="https://github-profile-trophy.vercel.app/?username=GreyTechno&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"></a></p>
+<p align="centre"><img title="GithubStatistics" src="https://github-profile-trophy.vercel.app/?username=GreyTechno&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"></p>
 
 # 
 <h2><b><i>📡 ConnectWithMe</i></b></h2> 
