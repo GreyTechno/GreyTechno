@@ -1,14 +1,6 @@
 <p align="centre"><a href="README.md" target="blank"><img title="GithubStats" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a></p>
-
-<img title="GithubStats" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
-<img title="MostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyTechno&layout=compact&theme=react&hide_border=true">
-<img title="Programmer" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/46207-programmer-1.gif">
-
-<p align="centre"><img align="centre" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3" alt="Hi,_I_Am_MR.GT" height="90" width="1000"></p>
-
-
-
-
+<p align="centre"><a href="README.md" target="blank"><img title="MostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyTechno&layout=compact&theme=react&hide_border=true"></a></p>
+<p align="centre"><a href="README.md" target="blank"><img title="Programmer" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/46207-programmer-1.gif"></a></p>
 <p align="centre"><img align="centre" src="https://github.com/GreyTechno/GreyTechno/blob/main/core/20221123_234926.png" alt="Hi,_I_Am_MR.GT" height="90" width="1000"></p>
 
 ## 🚀 ABOUT ME
