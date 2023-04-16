@@ -3,11 +3,18 @@
 
 ## MORE ABOUT ME
 
-<p align="center"><a href="https://github.com/htr-tech">
+<p align="center">
+<a href="https://github.com/GreyTechno">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=GreyTechno&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"/></a>
 &nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin0x01&&theme=tokyonight" alt="alamin0x01"/>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/GreyTechno"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyTechno&layout=compact&theme=react&hide_border=true"/>
-</a></p>
+</a>
+</p>
+
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 
 <h2><b><i>📡ConnectWithMe</i></b></h2>
@@ -17,3 +24,4 @@
 </p>
 <h3><b><i>🚀Visitors</i></b></h3>
 <img src="https://profile-counter.glitch.me/GreyTechno/count.svg" alt="Visitors">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
