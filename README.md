@@ -25,3 +25,4 @@
 <h3><b><i>🚀Visitors</i></b></h3>
 <img src="https://profile-counter.glitch.me/GreyTechno/count.svg" alt="Visitors">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
